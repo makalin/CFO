@@ -1,8 +1,4 @@
 # BASIC Game: Catch the Falling Objects
-A simple BASIC program for a minimal game where you control a character ('O') that moves left and right to catch falling objects ('*'). This is written in QBASIC/QuickBASIC syntax.
-
-```markdown
-# BASIC Game: Catch the Falling Objects
 
 This is a simple game written in QBASIC/QuickBASIC where you control a character ('O') that moves left and right to catch falling objects ('*'). The game demonstrates basic programming concepts such as player input, game loops, collision detection, score tracking, and screen updating.
 
@@ -68,4 +64,3 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 ---
 
 Enjoy the game and happy coding!
-```
